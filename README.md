@@ -1,2 +1,2 @@
-# Narcomm
-UI for narcomm AI hackathon
+# Nasscom
+UI for nasscom AI hackathon
